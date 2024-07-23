@@ -1,6 +1,5 @@
-<h1>Summer Research Opportunity Machine Learning</h1>
+<h1>Summer Research Machine Learning Project</h1>
 
-<b>Official Site: https://math.nickvlamis.com/sro/sro-ml </b>
 <p>
 
 <b>Research Question </b>: Can neural networks, using state-of-the-art embedding techniques (e.g.
