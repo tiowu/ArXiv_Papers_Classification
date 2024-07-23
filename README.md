@@ -22,7 +22,7 @@ performance. In the process, we will explore several potential designs.
 
 <b>Learning Objectives </b>: Students will learn the basic theory of neural networks, best practices in machine
 learning, vector embedding techniques, how to engineer various models, to work with
-industry-standard programming tools (including Python, numpy, pytorch, vscode, ssh),
+industry-standard programming tools (including Python, TensorFlow, PyTorch, vscode, ssh),
 how to work with and manage big data, how to manage/design a large-scale project
 and the associated workflow, how to design experiments and test hypotheses, and
 how to work both in a team and independently. 
@@ -30,7 +30,7 @@ how to work both in a team and independently.
   
 <b>Team Members <br></b>
 <p>
-- Nicholas Vlamis, Faculty Mentor <br>
+- Dr. Nicholas Vlamis, Project Lead <br>
 - Kathy He <br>
 - FangFang (Daisy) Lyu <br>
 - Tao Wu <br>
