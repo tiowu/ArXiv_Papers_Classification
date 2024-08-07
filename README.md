@@ -6,8 +6,7 @@
 doc2vec), outperform the arXiv’s API in auto-classification? 
 <p>
 <p> 
-<b>Research Objective </b>: Design and implement supervised machine learning algorithms using neural networks to auto-classify
-arXiv preprints, and compare performance against the control provided by the arXiv’s API. <p>
+<b>Research Objective </b>: Design and implement machine-learning algorithms using neural networks to auto-classify arXiv preprints and compare performance against, and potentially outperform, the benchmark metrics provided by arXiv’s in-house ML team. <p>
   
 <b>Project Summary:</b> The arXiv is a preprint repository for research articles in several fields, including
 mathematics. When a preprint is submitted, the author must choose a category and
@@ -30,7 +29,7 @@ how to work both in a team and independently.
   
 <b>Team Members <br></b>
 <p>
-- Dr. Nicholas Vlamis, Project Lead <br>
+- Dr. Nicholas Vlamis, Faculty Mentor <br>
 - Kathy He <br>
 - FangFang (Daisy) Lyu <br>
 - Tao Wu <br>
