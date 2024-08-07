@@ -13,12 +13,7 @@ doc2vec), outperform the arXiv’s API in auto-classification?
 <b>Project Summary:</b> The arXiv is a preprint repository for research articles in several fields, including
 mathematics. When a preprint is submitted, the author must choose a category and
 subcategory—e.g. math.GT, where math is the category and GT (geometric topology) is
-the subcategory. The project is to design an algorithm using recent machine learning
-techniques, based on neural networks, to take as input a preprint and output a category
-and subcategory, thereby auto-classifying preprints. The arXiv recently released an API
-for auto-classification using older, well-established techniques. The goal of the project is
-to use this API as the benchmark and to see if more modern techniques can improve
-performance. In the process, we will explore several potential designs. 
+the subcategory. The project is to design a machine learning algorithm using modern embedding techniques, based on neural networks, to take as input a preprint and output a corresponding primary category, hence auto-classifying preprints. The arXiv recently released an API for auto-classification using older, well-established techniques. One potential goal of the project is to use this API as the control and to see if more advanced techniques can improve performance. In the process, we will explore several attainable designs. 
 </p>
 
 <b>Learning Objectives </b>: Students will learn the basic theory of neural networks, best practices in machine
