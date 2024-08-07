@@ -1,7 +1,9 @@
 <h1>Summer Research Machine Learning Project</h1>
 
 <p>
-
+<b>Official Website </b>: https://math.nickvlamis.com/sro/sro-ml <p>
+<b>Poster and Paper </b>: https://www.tiowu.com/arxiv-articles-classification <p>
+  
 <b>Research Question </b>: Can supervised learning neural networks, using advanced embedding techniques (e.g.
 doc2vec), outperform the arXiv’s API in auto-classification? 
 <p>
