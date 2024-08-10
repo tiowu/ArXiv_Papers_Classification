@@ -34,3 +34,5 @@ how to work both in a team and independently.
 
 
 ArXiv Bulk Data: <a href ="https://www.kaggle.com/datasets/Cornell-University/arxiv"> Kaggle.com via Google Cloud Storage buckets </a>
+
+ArXiv HuggingFace Datasets: <a href ="https://huggingface.co/datasets/mlcore/arxiv-classifier"> Huggingface.co </a>
