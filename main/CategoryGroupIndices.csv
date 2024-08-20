@@ -1,0 +1,156 @@
+﻿group,archive_name,archive_id,category
+Computer Science,Computer Science,cs,AI
+Computer Science,Computer Science,cs,AR
+Computer Science,Computer Science,cs,CC
+Computer Science,Computer Science,cs,CE
+Computer Science,Computer Science,cs,CG
+Computer Science,Computer Science,cs,CL
+Computer Science,Computer Science,cs,CR
+Computer Science,Computer Science,cs,CV
+Computer Science,Computer Science,cs,CY
+Computer Science,Computer Science,cs,DB
+Computer Science,Computer Science,cs,DC
+Computer Science,Computer Science,cs,DL
+Computer Science,Computer Science,cs,DM
+Computer Science,Computer Science,cs,DS
+Computer Science,Computer Science,cs,ET
+Computer Science,Computer Science,cs,FL
+Computer Science,Computer Science,cs,GL
+Computer Science,Computer Science,cs,GR
+Computer Science,Computer Science,cs,GT
+Computer Science,Computer Science,cs,HC
+Computer Science,Computer Science,cs,IR
+Computer Science,Computer Science,cs,IT
+Computer Science,Computer Science,cs,LG
+Computer Science,Computer Science,cs,LO
+Computer Science,Computer Science,cs,MA
+Computer Science,Computer Science,cs,MM
+Computer Science,Computer Science,cs,MS
+Computer Science,Computer Science,cs,NA
+Computer Science,Computer Science,cs,NE
+Computer Science,Computer Science,cs,NI
+Computer Science,Computer Science,cs,OH
+Computer Science,Computer Science,cs,OS
+Computer Science,Computer Science,cs,PF
+Computer Science,Computer Science,cs,PL
+Computer Science,Computer Science,cs,RO
+Computer Science,Computer Science,cs,SC
+Computer Science,Computer Science,cs,SD
+Computer Science,Computer Science,cs,SE
+Computer Science,Computer Science,cs,SI
+Computer Science,Computer Science,cs,SY
+Economics,Economics,econ,EM
+Economics,Economics,econ,GN
+Economics,Economics,econ,TH
+Electrical Engineering and Systems Science,Electrical Engineering and Systems Science,eess,AS
+Electrical Engineering and Systems Science,Electrical Engineering and Systems Science,eess,IV
+Electrical Engineering and Systems Science,Electrical Engineering and Systems Science,eess,SP
+Electrical Engineering and Systems Science,Electrical Engineering and Systems Science,eess,SY
+Mathematics,Mathematics,math,AC
+Mathematics,Mathematics,math,AG
+Mathematics,Mathematics,math,AP
+Mathematics,Mathematics,math,AT
+Mathematics,Mathematics,math,CA
+Mathematics,Mathematics,math,CO
+Mathematics,Mathematics,math,CT
+Mathematics,Mathematics,math,CV
+Mathematics,Mathematics,math,DG
+Mathematics,Mathematics,math,DS
+Mathematics,Mathematics,math,FA
+Mathematics,Mathematics,math,GM
+Mathematics,Mathematics,math,GN
+Mathematics,Mathematics,math,GR
+Mathematics,Mathematics,math,GT
+Mathematics,Mathematics,math,HO
+Mathematics,Mathematics,math,IT
+Mathematics,Mathematics,math,KT
+Mathematics,Mathematics,math,LO
+Mathematics,Mathematics,math,MG
+Mathematics,Mathematics,math,MP
+Mathematics,Mathematics,math,NA
+Mathematics,Mathematics,math,NT
+Mathematics,Mathematics,math,OA
+Mathematics,Mathematics,math,OC
+Mathematics,Mathematics,math,PR
+Mathematics,Mathematics,math,QA
+Mathematics,Mathematics,math,RA
+Mathematics,Mathematics,math,RT
+Mathematics,Mathematics,math,SG
+Mathematics,Mathematics,math,SP
+Mathematics,Mathematics,math,ST
+Physics,ASTROPHYSICS,ASTRO-PH,CO
+Physics,ASTROPHYSICS,ASTRO-PH,EP
+Physics,ASTROPHYSICS,ASTRO-PH,GA
+Physics,ASTROPHYSICS,ASTRO-PH,HE
+Physics,ASTROPHYSICS,ASTRO-PH,IM
+Physics,ASTROPHYSICS,ASTRO-PH,SR
+Physics,CONDENSED MATTER,COND-MAT,dis-nn
+Physics,CONDENSED MATTER,COND-MAT,mes-hall
+Physics,CONDENSED MATTER,COND-MAT,mtrl-sci
+Physics,CONDENSED MATTER,COND-MAT,other
+Physics,CONDENSED MATTER,COND-MAT,quant-gas
+Physics,CONDENSED MATTER,COND-MAT,soft
+Physics,CONDENSED MATTER,COND-MAT,stat-mech
+Physics,CONDENSED MATTER,COND-MAT,str-el
+Physics,CONDENSED MATTER,COND-MAT,supr-con
+Physics,GENERAL RELATIVITY AND QUANTUM COSMOLOGY,GR-QC,gr-qc
+Physics,HIGH ENERGY PHYSICS-EXPERIMENT,HEP-EX,hep-ex
+Physics,HIGH ENERGY PHYSICS-LATTICE,HEP-LAT,hep-lat
+Physics,HIGH ENERGY PHYSICS-PHENOMENOLOGY,HEP-PH,hep-ph
+Physics,HIGH ENERGY PHYSICS-THEORY,HEP-TH,hep-th
+Physics,MATHEMATICAL PHYSICS,MATH-PH,math-ph
+Physics,NONLINEAR SCIENCES,NLIN,AO
+Physics,NONLINEAR SCIENCES,NLIN,CD
+Physics,NONLINEAR SCIENCES,NLIN,CG
+Physics,NONLINEAR SCIENCES,NLIN,PS
+Physics,NONLINEAR SCIENCES,NLIN,SI
+Physics,NUCLEAR EXPERIMENT,NUCL-EX,nucl-ex
+Physics,NUCLEAR THEORY,NUCL-TH,nucl-th
+Physics,PHYSICS,PHYSICS,acc-ph
+Physics,PHYSICS,PHYSICS,ao-ph
+Physics,PHYSICS,PHYSICS,app-ph
+Physics,PHYSICS,PHYSICS,atm-clus
+Physics,PHYSICS,PHYSICS,atom-ph
+Physics,PHYSICS,PHYSICS,bio-ph
+Physics,PHYSICS,PHYSICS,chem-ph
+Physics,PHYSICS,PHYSICS,class-ph
+Physics,PHYSICS,PHYSICS,comp-ph
+Physics,PHYSICS,PHYSICS,data-an
+Physics,PHYSICS,PHYSICS,ed-ph
+Physics,PHYSICS,PHYSICS,flu-dyn
+Physics,PHYSICS,PHYSICS,gen-ph
+Physics,PHYSICS,PHYSICS,geo-ph
+Physics,PHYSICS,PHYSICS,hist-ph
+Physics,PHYSICS,PHYSICS,ins-det
+Physics,PHYSICS,PHYSICS,med-ph
+Physics,PHYSICS,PHYSICS,optics
+Physics,PHYSICS,PHYSICS,plasm-ph
+Physics,PHYSICS,PHYSICS,pop-ph
+Physics,PHYSICS,PHYSICS,soc-ph
+Physics,PHYSICS,PHYSICS,space-ph
+Physics,QUANTUM PHYSICS,QUANT-PH,quant-ph
+Quantitative Biology,Quantitative Biology,q-bio,BM
+Quantitative Biology,Quantitative Biology,q-bio,CB
+Quantitative Biology,Quantitative Biology,q-bio,GN
+Quantitative Biology,Quantitative Biology,q-bio,MN
+Quantitative Biology,Quantitative Biology,q-bio,NC
+Quantitative Biology,Quantitative Biology,q-bio,OT
+Quantitative Biology,Quantitative Biology,q-bio,PE
+Quantitative Biology,Quantitative Biology,q-bio,QM
+Quantitative Biology,Quantitative Biology,q-bio,SC
+Quantitative Biology,Quantitative Biology,q-bio,TO
+Quantitative Finance,Quantitative Finance,q-fin,CP
+Quantitative Finance,Quantitative Finance,q-fin,EC
+Quantitative Finance,Quantitative Finance,q-fin,GN
+Quantitative Finance,Quantitative Finance,q-fin,MF
+Quantitative Finance,Quantitative Finance,q-fin,PM
+Quantitative Finance,Quantitative Finance,q-fin,PR
+Quantitative Finance,Quantitative Finance,q-fin,RM
+Quantitative Finance,Quantitative Finance,q-fin,ST
+Quantitative Finance,Quantitative Finance,q-fin,TR
+Statistics,Statistics,stat,AP
+Statistics,Statistics,stat,CO
+Statistics,Statistics,stat,ME
+Statistics,Statistics,stat,ML
+Statistics,Statistics,stat,OT
+Statistics,Statistics,stat,TH
