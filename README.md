@@ -2,7 +2,7 @@
 
 <p>
 <b>Official Website </b>: https://math.nickvlamis.com/sro/sro-ml <p>
-<b>Poster and Report </b>: https://www.tiowu.com/arxiv-papers-classification <p>
+<b>Paper-style Report and Poster </b>: https://www.tiowu.com/arxiv-papers-classification <p>
   
 <b>Research Question </b>: Can supervised learning neural networks, using advanced embedding techniques (e.g.
 doc2vec), outperform the arXiv’s API in auto-classification? 
