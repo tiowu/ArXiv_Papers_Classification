@@ -8,7 +8,7 @@
 doc2vec), outperform the arXiv’s API in auto-classification? 
 <p>
 <p> 
-<b>Research Objective </b>: Design and implement machine-learning algorithms using neural networks to auto-classify arXiv preprints and compare performance against, and potentially outperform, the benchmark metrics provided by arXiv’s in-house ML team. <p>
+<b>Research Objective </b>: Design and implement machine-learning algorithms using neural networks to auto-classify arXiv preprints and compare performance against, and potentially outperform, benchmarks provided by arXiv’s in-house ML team. <p>
   
 <b>Project Summary:</b> The arXiv is a preprint repository for research articles in several fields, including
 mathematics. When a preprint is submitted, the author must choose a category and
