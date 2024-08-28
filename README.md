@@ -2,13 +2,13 @@
 
 <p>
 <b>Official Website </b>: https://math.nickvlamis.com/sro/sro-ml <p>
-<b>Poster and Report </b>: https://www.tiowu.com/arxiv-papers-classification <p>
+<b>Paper-style Report and Poster </b>: https://www.tiowu.com/arxiv-papers-classification <p>
   
 <b>Research Question </b>: Can supervised learning neural networks, using advanced embedding techniques (e.g.
 doc2vec), outperform the arXiv’s API in auto-classification? 
 <p>
 <p> 
-<b>Research Objective </b>: Design and implement machine-learning algorithms using neural networks to auto-classify arXiv preprints and compare performance against, and potentially outperform, the benchmark metrics provided by arXiv’s in-house ML team. <p>
+<b>Research Objective </b>: Design and implement machine-learning algorithms using neural networks to auto-classify arXiv preprints and compare performance against, and potentially outperform, benchmarks provided by arXiv’s in-house ML team. <p>
   
 <b>Project Summary:</b> The arXiv is a preprint repository for research articles in several fields, including
 mathematics. When a preprint is submitted, the author must choose a category and
@@ -35,4 +35,4 @@ how to work both in a team and independently.
 
 ArXiv Bulk Data: <a href ="https://www.kaggle.com/datasets/Cornell-University/arxiv"> Kaggle.com via Google Cloud Storage buckets </a>
 
-ArXiv HuggingFace minor and major Datasets: <a href ="https://huggingface.co/datasets/mlcore/arxiv-classifier"> Huggingface.co </a>
+ArXiv HuggingFace minor & major Datasets: <a href ="https://huggingface.co/datasets/mlcore/arxiv-classifier"> Huggingface.co </a>
