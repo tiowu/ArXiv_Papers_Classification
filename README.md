@@ -19,7 +19,7 @@ the subcategory. The project is to design a machine learning algorithm using mod
 <b>Learning Objectives </b>: Students will learn the basic theory of neural networks, best practices in machine
 learning, vector embedding techniques, how to engineer various models, to work with
 industry-standard programming tools (including Python, TensorFlow, PyTorch, vscode, ssh),
-how to work with and manage big data, how to manage/design a large-scale project
+how to work with and manage big data, how to design/manage a large-scale project
 and the associated workflow, how to design experiments and test hypotheses, and
 how to work both in a team and independently. 
 <p>
